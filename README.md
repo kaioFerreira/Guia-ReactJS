@@ -15,3 +15,6 @@ Após o projeto pronto basta abrir o projeto no seu editor de texto e usando o c
 Para editar esse projeto basta abrir o arquivo *src/App*
 
   Como dito esse repositorio está mais resumido que oque é criado quando criado o projeto com o npx.
+  
+  # OBS:
+    Esse repositorio já vem com a configuração de ROTAS e uma estrutura de pastas definida, além do pacote react-icons já instalado entre outros.
